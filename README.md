@@ -1,9 +1,9 @@
   # Project Title
   Book It
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Description
   Book search engine
+  ![image](https://user-images.githubusercontent.com/88639772/152076223-059c7b9c-5323-4c34-8319-ceba327979aa.png)
 
   # Table of Contents 
   * [Installation](#-Installation)
