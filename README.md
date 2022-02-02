@@ -21,8 +21,6 @@
   
   Run `npm install` to install all dependencies.
   
-  Run `node seeds/index.js` to seed the data.
-  
   Run `npm start` to run the application in terminal or bash.
   
   Use http://localhost:3001 [or whatever terminal port you have specified] in your browser
