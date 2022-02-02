@@ -13,7 +13,20 @@
   * [Questions](#-Contact-Information)
       
   # Installation
-  clone repo
+  Clone the repo to your local development environment. 
+  
+  `git clone https://github.com/Kadargo63/book-it.git` 
+  
+  Navigate to the root folder directory using the command prompt.
+  
+  Run `npm install` to install all dependencies.
+  
+  Run `node seeds/index.js` to seed the data.
+  
+  Run `npm start` to run the application in terminal or bash.
+  
+  Use http://localhost:3001 [or whatever terminal port you have specified] in your browser
+  
   
   # Usage
   carefully
